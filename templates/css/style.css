@@ -1,0 +1,30 @@
+body {
+    background-color: #f4f2fb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topo {
+    background-color: #4a2d8f;
+    color: #fff;
+    padding: 2rem 1rem;
+}
+
+.topo p {
+    margin-bottom: 0;
+    opacity: 0.9;
+}
+
+.card-header {
+    background-color: #4a2d8f;
+    color: #fff;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #4a2d8f;
+    border-color: #4a2d8f;
+}
+
+.matriz td {
+    min-width: 70px;
+}
