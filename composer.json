@@ -1,0 +1,16 @@
+{
+    "name": "arthur/algebra-linear",
+    "description": "Operacoes matriciais e sistemas lineares — trabalho interarea SENAI",
+    "type": "project",
+    "require": {
+        "php": ">=8.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12"
+    },
+    "autoload": {
+        "classmap": [
+            "Controller/"
+        ]
+    }
+}
